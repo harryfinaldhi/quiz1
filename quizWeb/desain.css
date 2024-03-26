@@ -1,0 +1,14 @@
+.gambar-container {
+    display: inline-block;
+    text-align: center; /* Mengatur teks dan tombol berada di tengah */
+}
+body {
+    transition: background-color 0.5s ease; /* Transisi perubahan warna latar belakang */
+    text-align: center; /* Pusatkan tombol */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
